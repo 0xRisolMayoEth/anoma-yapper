@@ -32,16 +32,16 @@
 | 28   | Endlessq           | @endlessq1       | [https://x.com/endlessq1](https://x.com/endlessq1) |
 | 29   | BUNT               | @bullish_bunt    | [https://x.com/bullish_bunt](https://x.com/bullish_bunt) |
 | 30   | PenguinWeb3        | @PenguinWeb3     | [https://x.com/PenguinWeb3](https://x.com/PenguinWeb3) |
-| 31   | Ronin                   | @DeRonin           | [https://x.com/DeRonin](https://x.com/DeRonin) |
-| 32   | Supers                  | @Supers601         | [https://x.com/Supers601](https://x.com/Supers601) |
-| 33   | Erequendi               | @erequendiweb3     | [https://x.com/erequendiweb3](https://x.com/erequendiweb3) |
-| 34   | awa                     | @awasunyin         | [https://x.com/awasunyin](https://x.com/awasunyin) |
-| 35   | FS7                     | @0xfs7             | [https://x.com/0xfs7](https://x.com/0xfs7) |
-| 36   | Splin Teron             | @splinteron        | [https://x.com/splinteron](https://x.com/splinteron) |
-| 37   | akagami                 | @BlueRush          | [https://x.com/BlueRush](https://x.com/BlueRush) |
-| 38   | Davy                    | @DavyCryptoJones   | [https://x.com/DavyCryptoJones](https://x.com/DavyCryptoJones) |
-| 39   | Zener                   | @zenerbabax        | [https://x.com/zenerbabax](https://x.com/zenerbabax) |
-| 40   | whateverman             | @what3verman       | [https://x.com/what3verman](https://x.com/what3verman) |
+| 31   | awa          | @awasunyin       | [https://x.com/awasunyin](https://x.com/awasunyin) |
+| 32   | Supers       | @Supers6061      | [https://x.com/Supers6061](https://x.com/Supers6061) |
+| 33   | Ronin        | @DeRonin_        | [https://x.com/DeRonin_](https://x.com/DeRonin_) |
+| 34   | Erequendi    | @erequendiweb3   | [https://x.com/erequendiweb3](https://x.com/erequendiweb3) |
+| 35   | Splin Teron  | @splinter0n      | [https://x.com/splinter0n](https://x.com/splinter0n) |
+| 36   | FS7 🌊        | @0xfs7           | [https://x.com/0xfs7](https://x.com/0xfs7) |
+| 37   | akagami      | @blueruush       | [https://x.com/blueruush](https://x.com/blueruush) |
+| 38   | Davy 🐙 0___0 | @DavyCryptoJones | [https://x.com/DavyCryptoJones](https://x.com/DavyCryptoJones) |
+| 39   | ✨ whateverman✨🪙 | @what3verman     | [https://x.com/what3verman](https://x.com/what3verman) |
+| 40   | Zener        | @zenerbabax      | [https://x.com/zenerbabax](https://x.com/zenerbabax) |
 | 41   | Denise                  | @InfluxerDee       | [https://x.com/InfluxerDee](https://x.com/InfluxerDee) |
 | 42   | jazz                    | @jazzckoff         | [https://x.com/jazzckoff](https://x.com/jazzckoff) |
 | 43   | ortegas                 | @OrtegasCrypto     | [https://x.com/OrtegasCrypto](https://x.com/OrtegasCrypto) |
