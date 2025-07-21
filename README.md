@@ -38,7 +38,7 @@
 | 34   | Erequendi    | @erequendiweb3   | [https://x.com/erequendiweb3](https://x.com/erequendiweb3) |
 | 35   | Splin Teron  | @splinter0n      | [https://x.com/splinter0n](https://x.com/splinter0n) |
 | 36   | FS7 🌊        | @0xfs7           | [https://x.com/0xfs7](https://x.com/0xfs7) |
-| 37   | akagami      | @blueruush       | [https://x.com/blueruush](https://x.com/blueruush) |
+| 37   | akagami      | @blueerush       | [https://x.com/blueerush](https://x.com/blueerush) |
 | 38   | Davy 🐙 0___0 | @DavyCryptoJones | [https://x.com/DavyCryptoJones](https://x.com/DavyCryptoJones) |
 | 39   | ✨ whateverman✨🪙 | @what3verman     | [https://x.com/what3verman](https://x.com/what3verman) |
 | 40   | Zener        | @zenerbabax      | [https://x.com/zenerbabax](https://x.com/zenerbabax) |
