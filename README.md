@@ -16,11 +16,11 @@
 | 12   | King.sol QA             | @teddi_speaks      | [https://x.com/teddi_speaks](https://x.com/teddi_speaks) |
 | 13   | xero                    | @xerocooleth         | [https://x.com/xerocooleth](https://x.com/xerocooleth) |
 | 14   | Tim Haldorsson          | @TimHaldorsson     | [https://x.com/TimHaldorsson](https://x.com/TimHaldorsson) |
-| 15   | apirion                 | @apirion0x         | [https://x.com/apirion0x](https://x.com/apirion0x) |
-| 16   | 大河内 $M               | @DAXIAGUAI         | [https://x.com/DAXIAGUAI](https://x.com/DAXIAGUAI) |
-| 17   | Alter Ego               | @piparsons         | [https://x.com/piparsons](https://x.com/piparsons) |
+| 15   | apirion                 | @apriori0x         | [https://x.com/apriori0x](https://x.com/apriori0x) |
+| 16   | 大河内 $M               | @DAXIAGUA1        | [https://x.com/DAXIAGUA1](https://x.com/DAXIAGUA1) |
+| 17   | Alter Ego               | @pipsandbills         | [https://x.com/piparsons](https://x.com/pipsandbills) |
 | 18   | CEK                     | @oldman_cek        | [https://x.com/oldman_cek](https://x.com/oldman_cek) |
-| 19   | 莫莫                     | @momochenning      | [https://x.com/momochenning](https://x.com/momochenning) |
+| 19   | 莫莫                     | @momochenming      | [https://x.com/momochenming](https://x.com/momochenming) |
 | 20   | Akili $M                | @Guomin184935      | [https://x.com/Guomin184935](https://x.com/Guomin184935) |
 | 21   | SKYLINE                 | @SkylineETH        | [https://x.com/SkylineETH](https://x.com/SkylineETH) |
 | 22   | Holly                   | @hollyweb3         | [https://x.com/hollyweb3](https://x.com/hollyweb3) |
