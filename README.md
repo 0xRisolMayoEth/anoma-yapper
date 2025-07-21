@@ -24,7 +24,7 @@
 | 20   | Akili $M                | @Guomin184935      | [https://x.com/Guomin184935](https://x.com/Guomin184935) |
 | 21   | SKYLINE                 | @SkylineETH        | [https://x.com/SkylineETH](https://x.com/SkylineETH) |
 | 22   | Holly              | @holly_web3      | [https://x.com/holly_web3](https://x.com/holly_web3) |
-| 23   | 蝦币小鑫              | @zhuangfgghjnb   | [https://x.com/zhuangfgghjnb](https://x.com/zhuangfgghjnb) |
+| 23   | 蝦币小鑫              | @zhuanfgghjnb   | [https://x.com/zhuanfgghjnb](https://x.com/zhuanfgghjnb) |
 | 24   | LANGERIUS          | @langeriuseth    | [https://x.com/langeriuseth](https://x.com/langeriuseth) |
 | 25   | Buzz               | @BuzzMalx        | [https://x.com/BuzzMalx](https://x.com/BuzzMalx) |
 | 26   | Eli5DeFi           | @eli5_defi       | [https://x.com/eli5_defi](https://x.com/eli5_defi) |
