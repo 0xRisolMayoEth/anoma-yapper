@@ -23,15 +23,15 @@
 | 19   | 莫莫                     | @momochenming      | [https://x.com/momochenming](https://x.com/momochenming) |
 | 20   | Akili $M                | @Guomin184935      | [https://x.com/Guomin184935](https://x.com/Guomin184935) |
 | 21   | SKYLINE                 | @SkylineETH        | [https://x.com/SkylineETH](https://x.com/SkylineETH) |
-| 22   | Holly                   | @hollyweb3         | [https://x.com/hollyweb3](https://x.com/hollyweb3) |
-| 23   | 起点公会                | @zhuangngni        | [https://x.com/zhuangngni](https://x.com/zhuangngni) |
-| 24   | LANGERIUS               | @langertius        | [https://x.com/langertius](https://x.com/langertius) |
-| 25   | Buzz                    | @BuzzMalx          | [https://x.com/BuzzMalx](https://x.com/BuzzMalx) |
-| 26   | Eli5DeFi                | @eli5_defi         | [https://x.com/eli5_defi](https://x.com/eli5_defi) |
-| 27   | Endlessq                | @endlessq1         | [https://x.com/endlessq1](https://x.com/endlessq1) |
-| 28   | mufettis $M             | @anftmufettisi     | [https://x.com/anftmufettisi](https://x.com/anftmufettisi) |
-| 29   | BUNT                    | @bullish_bunt      | [https://x.com/bullish_bunt](https://x.com/bullish_bunt) |
-| 30   | PenguinWeb3             | @PenguinWeb3       | [https://x.com/PenguinWeb3](https://x.com/PenguinWeb3) |
+| 22   | Holly              | @holly_web3      | [https://x.com/holly_web3](https://x.com/holly_web3) |
+| 23   | 蝦币小鑫              | @zhuangfgghjnb   | [https://x.com/zhuangfgghjnb](https://x.com/zhuangfgghjnb) |
+| 24   | LANGERIUS          | @langeriuseth    | [https://x.com/langeriuseth](https://x.com/langeriuseth) |
+| 25   | Buzz               | @BuzzMalx        | [https://x.com/BuzzMalx](https://x.com/BuzzMalx) |
+| 26   | Eli5DeFi           | @eli5_defi       | [https://x.com/eli5_defi](https://x.com/eli5_defi) |
+| 27   | mufettis $M 🐓      | @nftmufettisi    | [https://x.com/nftmufettisi](https://x.com/nftmufettisi) |
+| 28   | Endlessq           | @endlessq1       | [https://x.com/endlessq1](https://x.com/endlessq1) |
+| 29   | BUNT               | @bullish_bunt    | [https://x.com/bullish_bunt](https://x.com/bullish_bunt) |
+| 30   | PenguinWeb3        | @PenguinWeb3     | [https://x.com/PenguinWeb3](https://x.com/PenguinWeb3) |
 | 31   | Ronin                   | @DeRonin           | [https://x.com/DeRonin](https://x.com/DeRonin) |
 | 32   | Supers                  | @Supers601         | [https://x.com/Supers601](https://x.com/Supers601) |
 | 33   | Erequendi               | @erequendiweb3     | [https://x.com/erequendiweb3](https://x.com/erequendiweb3) |
