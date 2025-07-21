@@ -59,8 +59,8 @@
 | 55 | JEXY𓂀                  | @jexybtc              | https://x.com/jexybtc            |
 | 56 | Bitman                   | @BitmanTW             | https://x.com/BitmanTW           |
 | 57 | 0XGIWA                   | @0xGiwax              | https://x.com/0xGiwax            |
-| 58 | Anson.btc $M | 𓃵 🐦     | @bingo_eth            | https://x.com/bingo_eth          |
-| 59 | Gol D. REX $M | 𓃵 ✧⭑🧡👀 | @MJk9656              | https://x.com/MJk9656            |
+| 58 | Anson.btc $M      | @bingo_eth            | https://x.com/bingo_eth          |
+| 59 | Gol D. REX $M  | @MJk9656              | https://x.com/MJk9656            |
 | 60 | Chill Pill | @ripchillpill                  | https://x.com/ripchillpill               |
 | 61   | 三方为主 $M              | @TUGE8888          | [https://x.com/TUGE8888](https://x.com/TUGE8888) |
 | 62   | MR MERIT                | @MeritDao          | [https://x.com/MeritDao](https://x.com/MeritDao) |
