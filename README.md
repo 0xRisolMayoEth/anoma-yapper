@@ -62,16 +62,16 @@
 | 58 | Anson.btc $M      | @bingo_eth            | https://x.com/bingo_eth          |
 | 59 | Gol D. REX $M  | @MJk9656              | https://x.com/MJk9656            |
 | 60 | Chill Pill | @ripchillpill                  | https://x.com/ripchillpill               |
-| 61   | 三方为主 $M              | @TUGE8888          | [https://x.com/TUGE8888](https://x.com/TUGE8888) |
-| 62   | MR MERIT                | @MeritDao          | [https://x.com/MeritDao](https://x.com/MeritDao) |
-| 63   | Richie \| Doges.lens    | @twindoges         | [https://x.com/twindoges](https://x.com/twindoges) |
-| 64   | hottiebabegem           | @hottiebabegem     | [https://x.com/hottiebabegem](https://x.com/hottiebabegem) |
-| 65   | Javi .eth               | @ignazleifer       | [https://x.com/ignazleifer](https://x.com/ignazleifer) |
-| 66   | Vicky晓燕 $M             | @vickym2           | [https://x.com/vickym2](https://x.com/vickym2) |
-| 67   | Miqi                    | @qmmike            | [https://x.com/qmmike](https://x.com/qmmike) |
-| 68   | Saint                   | @TheDefiPoint      | [https://x.com/TheDefiPoint](https://x.com/TheDefiPoint) |
-| 69   | (data kosong)           | —                  | — |
-| 70   | astronomica             | @0xastronomica     | [https://x.com/0xastronomica](https://x.com/0xastronomica) |
+| 61 | 寻一方净土 $M | 𓃵         | @TUGE8888         | https://x.com/TUGE8888            |
+| 62 | MR MERIT                  | @Merit_Dao         | https://x.com/Merit_Dao |
+| 63 | Javi🥚.eth                | @jgonzalezferrer   | https://x.com/jgonzalezferrer |
+| 64 | Richie | Doges.lens ⛩️🟥 | @twindoges         | https://x.com/twindoges |
+| 65 | hottiebabegem (🍊,🍉) ⩚☀️🚨 | @HottieBabeGem               | https://x.com/HottieBabeGem              |
+| 66 | Vvicky绮绮 $M | 𓃵        | @vvickym2          | https://x.com/vvickym2  |
+| 67 | Saint                    | @TheDeFiSaint       | https://x.com/TheDeFiSaint |
+| 68 | Miqi*𓃵                 | @qmmnmike          | https://x.com/qmmnmike  |
+| 69 | BAEK_PRO $M | 𓃵 국동김치파 | @baek_project               |  https://x.com/baek_project              |
+| 70 | astronomica              | @oxastronomica     | https://x.com/oxastronomica |
 | 71   | 团圆流水                 | @OHM010169         | [https://x.com/OHM010169](https://x.com/OHM010169) |
 | 72   | hunkarbey               | @hunkarbeyiniz     | [https://x.com/hunkarbeyiniz](https://x.com/hunkarbeyiniz) |
 | 73   | FastLife                | @0xFastLife        | [https://x.com/0xFastLife](https://x.com/0xFastLife) |
