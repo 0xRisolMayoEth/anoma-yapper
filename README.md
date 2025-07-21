@@ -52,16 +52,16 @@
 | 48   | MtroX.         | @MtroX207        | [https://x.com/MtroX207](https://x.com/MtroX207) |
 | 49   | Firat MDS (Ø,G)| @FeratMDS        | [https://x.com/FeratMDS](https://x.com/FeratMDS) |
 | 50   | 老陌             | @Blockchainrese6 | [https://x.com/Blockchainrese6](https://x.com/Blockchainrese6) |
-| 51   | zeroknOwledge.H         | @zeroknOwledgeH    | [https://x.com/zeroknOwledgeH](https://x.com/zeroknOwledgeH) |
-| 52   | Seymirel                | @Seymirel          | [https://x.com/Seymirel](https://x.com/Seymirel) |
-| 53   | Dogacan                 | @00xdacan          | [https://x.com/00xdacan](https://x.com/00xdacan) |
-| 54   | Biscuit                 | @biscuitweb3       | [https://x.com/biscuitweb3](https://x.com/biscuitweb3) |
-| 55   | JEKYD                   | @jekybtc           | [https://x.com/jekybtc](https://x.com/jekybtc) |
-| 56   | Bitman                  | @BitmanTVW         | [https://x.com/BitmanTVW](https://x.com/BitmanTVW) |
-| 57   | OXGIWA                  | @0xGiwax           | [https://x.com/0xGiwax](https://x.com/0xGiwax) |
-| 58   | Anson.btc $M            | @bingo_eth         | [https://x.com/bingo_eth](https://x.com/bingo_eth) |
-| 59   | Chill Pill              | @ripchillpill      | [https://x.com/ripchillpill](https://x.com/ripchillpill) |
-| 60   | Gol D. REX $M           | @gnZebraleyuan     | [https://x.com/gnZebraleyuan](https://x.com/gnZebraleyuan) |
+| 51 | Seymirel                 | @Seymirel             | https://x.com/Seymirel           |
+| 52 | zerokn0wledge.hl 𓂀 𓆩𓆪 | @zerokn0wledge_       | [https://x.com/zerokn0wledge_](https://x.com/zerokn0wledge_)     |
+| 53 | Dogacan                  | @0xdogacan            | https://x.com/0xdogacan          |
+| 54 | Biscuit                  | @biscuitweb3          | https://x.com/biscuitweb3        |
+| 55 | JEXY𓂀                  | @jexybtc              | https://x.com/jexybtc            |
+| 56 | Bitman                   | @BitmanTW             | https://x.com/BitmanTW           |
+| 57 | 0XGIWA                   | @0xGiwax              | https://x.com/0xGiwax            |
+| 58 | Anson.btc $M | 𓃵 🐦     | @bingo_eth            | https://x.com/bingo_eth          |
+| 59 | Gol D. REX $M | 𓃵 ✧⭑🧡👀 | @MJk9656              | https://x.com/MJk9656            |
+| 60 | Chill Pill | @ripchillpill                  | https://x.com/ripchillpill               |
 | 61   | 三方为主 $M              | @TUGE8888          | [https://x.com/TUGE8888](https://x.com/TUGE8888) |
 | 62   | MR MERIT                | @MeritDao          | [https://x.com/MeritDao](https://x.com/MeritDao) |
 | 63   | Richie \| Doges.lens    | @twindoges         | [https://x.com/twindoges](https://x.com/twindoges) |
