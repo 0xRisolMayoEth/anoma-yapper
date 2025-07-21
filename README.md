@@ -8,7 +8,7 @@
 | 4    | BigM                    | @0xbigm7           | [https://x.com/0xbigm7](https://x.com/0xbigm7) |
 | 5    | Coblin(코블린)           | @co_cobling        | [https://x.com/co_cobling](https://x.com/co_cobling) |
 | 6    | 코루                     | @colu_farmer       | [https://x.com/colu_farmer](https://x.com/colu_farmer) |
-| 7    | CyberWarrior            | @CyberWarrior01    | [https://x.com/CyberWarrior01](https://x.com/CyberWarrior01) |
+| 7    | CyberWarrior            | @Cyber_Warriorr    | [https://x.com/Cyber_Warriorr](https://x.com/Cyber_Warriorr) |
 | 8    | Hercules \| DeFi        | @Hercules_DeFi     | [https://x.com/Hercules_DeFi](https://x.com/Hercules_DeFi) |
 | 9    | Meta                    | @metaio102         | [https://x.com/metaio102](https://x.com/metaio102) |
 | 10   | 小胖.eth $M              | @10000BRC          | [https://x.com/10000BRC](https://x.com/10000BRC) |
