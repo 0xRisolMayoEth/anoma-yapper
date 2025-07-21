@@ -14,7 +14,7 @@
 | 10   | 小胖.eth $M              | @10000BRC          | [https://x.com/10000BRC](https://x.com/10000BRC) |
 | 11   | 최정                     | @beingRich2000     | [https://x.com/beingRich2000](https://x.com/beingRich2000) |
 | 12   | King.sol QA             | @teddi_speaks      | [https://x.com/teddi_speaks](https://x.com/teddi_speaks) |
-| 13   | xero                    | @xerocoeth         | [https://x.com/xerocoeth](https://x.com/xerocoeth) |
+| 13   | xero                    | @xerocooleth         | [https://x.com/xerocooleth](https://x.com/xerocooleth) |
 | 14   | Tim Haldorsson          | @TimHaldorsson     | [https://x.com/TimHaldorsson](https://x.com/TimHaldorsson) |
 | 15   | apirion                 | @apirion0x         | [https://x.com/apirion0x](https://x.com/apirion0x) |
 | 16   | 大河内 $M               | @DAXIAGUAI         | [https://x.com/DAXIAGUAI](https://x.com/DAXIAGUAI) |
