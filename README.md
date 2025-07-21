@@ -3,7 +3,7 @@
 | Rank | Display Name           | Username           | Link X                             |
 |------|------------------------|--------------------|------------------------------------|
 | 1    | Adrian Brink           | @adrianbrink       | https://x.com/adrianbrink         |
-| 2    | Louround               | @Louround_         | https://x.com/Louround_          |
+| 2    | Louround               | @Louround_         | [https://x.com/Louround_](https://x.com/Louround_)          |
 | 3    | 99                     | @99holders         | https://x.com/99holders           |
 | 4    | BigM                   | @0xbigm7           | https://x.com/0xbigm7             |
 | 5    | Coblin(코블린)          | @co_cobling        | https://x.com/co_cobling              |
