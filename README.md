@@ -42,16 +42,16 @@
 | 38   | Davy 🐙 0___0 | @DavyCryptoJones | [https://x.com/DavyCryptoJones](https://x.com/DavyCryptoJones) |
 | 39   | ✨ whateverman✨🪙 | @what3verman     | [https://x.com/what3verman](https://x.com/what3verman) |
 | 40   | Zener        | @zenerbabax      | [https://x.com/zenerbabax](https://x.com/zenerbabax) |
-| 41   | Denise                  | @InfluxerDee       | [https://x.com/InfluxerDee](https://x.com/InfluxerDee) |
-| 42   | jazz                    | @jazzckoff         | [https://x.com/jazzckoff](https://x.com/jazzckoff) |
-| 43   | ortegas                 | @OrtegasCrypto     | [https://x.com/OrtegasCrypto](https://x.com/OrtegasCrypto) |
-| 44   | katexb t.hl             | @katextbt          | [https://x.com/katextbt](https://x.com/katextbt) |
-| 45   | banditxbt               | @banditxbt         | [https://x.com/banditxbt](https://x.com/banditxbt) |
-| 46   | Gomtu                   | @gomtuxyz          | [https://x.com/gomtuxyz](https://x.com/gomtuxyz) |
-| 47   | ALTF4                   | @0xALTF4           | [https://x.com/0xALTF4](https://x.com/0xALTF4) |
-| 48   | 姜楠                     | @Blockchainese6    | [https://x.com/Blockchainese6](https://x.com/Blockchainese6) |
-| 49   | Firat MDS (Q.G)         | @FiratMDS          | [https://x.com/FiratMDS](https://x.com/FiratMDS) |
-| 50   | MtroX                   | @MtroX207          | [https://x.com/MtroX207](https://x.com/MtroX207) |
+| 41   | Denise 🏴       | @InfluencerDee   | [https://x.com/InfluencerDee](https://x.com/InfluencerDee) |
+| 42   | banditxbt ☂️    | @banditxbt       | [https://x.com/banditxbt](https://x.com/banditxbt) |
+| 43   | jazz           | @jazzckoff       | [https://x.com/jazzckoff](https://x.com/jazzckoff) |
+| 44   | katexbt.hl     | @katexbt         | [https://x.com/katexbt](https://x.com/katexbt) |
+| 45   | ortegas        | @OrtegasCrypto   | [https://x.com/OrtegasCrypto](https://x.com/OrtegasCrypto) |
+| 46   | Gomtu          | @gomtu_xyz       | [https://x.com/gomtu_xyz](https://x.com/gomtu_xyz) |
+| 47   | ALTF4          | @0xALTF4         | [https://x.com/0xALTF4](https://x.com/0xALTF4) |
+| 48   | MtroX.         | @MtroX207        | [https://x.com/MtroX207](https://x.com/MtroX207) |
+| 49   | Firat MDS (Ø,G)| @FeratMDS        | [https://x.com/FeratMDS](https://x.com/FeratMDS) |
+| 50   | 老陌             | @Blockchainrese6 | [https://x.com/Blockchainrese6](https://x.com/Blockchainrese6) |
 | 51   | zeroknOwledge.H         | @zeroknOwledgeH    | [https://x.com/zeroknOwledgeH](https://x.com/zeroknOwledgeH) |
 | 52   | Seymirel                | @Seymirel          | [https://x.com/Seymirel](https://x.com/Seymirel) |
 | 53   | Dogacan                 | @00xdacan          | [https://x.com/00xdacan](https://x.com/00xdacan) |
