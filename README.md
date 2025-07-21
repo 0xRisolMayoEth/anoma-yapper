@@ -4,9 +4,9 @@
 |------|------------------------|--------------------|------------------------------------|
 | 1    | Adrian Brink           | @adrianbrink       | https://x.com/adrianbrink         |
 | 2    | Louround               | @Louround_         | https://x.com/Louround_          |
-| 3    | 99                     | @0xholders         | https://x.com/0xholders           |
+| 3    | 99                     | @99holders         | https://x.com/99holders           |
 | 4    | BigM                   | @0xbigm7           | https://x.com/0xbigm7             |
-| 5    | Coblin(코블린)          | @coblin            | https://x.com/coblin              |
+| 5    | Coblin(코블린)          | @co_cobling        | https://x.com/co_cobling              |
 | 6    | 코루                    | @col_farmer        | https://x.com/col_farmer          |
 | 7    | CyberWarrior           | @CyberWarrior01    | https://x.com/CyberWarrior01      |
 | 8    | Hercules \| DeFi       | @Hercules_Defi     | https://x.com/Hercules_Defi       |
