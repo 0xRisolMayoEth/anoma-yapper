@@ -82,7 +82,7 @@
 | 78   | 头雁                     | @alacheng          | https://x.com/alacheng                   |
 | 79   | Lexi Bitcoin 🐱         | @Lexibtceth        | https://x.com/Lexibtceth                 |
 | 80   | baby                    | @liuxiaoling933    | https://x.com/liuxiaoling933             |
-| 81   | 迪尔Dir. $M | 𓃵    | @gn_zebraleyuan     | https://x.com/gn_zebraleyuan         |
+| 81   | 迪尔Dir. $M 𓃵    | @gn_zebraleyuan     | https://x.com/gn_zebraleyuan         |
 | 82   | Ohmann张奥曼         | @btcohmann           | https://x.com/btcohmann               |
 | 83   | Traderibo         | @Traderibo123        | https://x.com/Traderibo123            |
 | 84   | Ferre             | @FerreWeb3           | https://x.com/FerreWeb3               |
