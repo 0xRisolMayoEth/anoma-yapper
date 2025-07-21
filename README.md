@@ -82,16 +82,16 @@
 | 78   | 头雁                     | @alacheng          | https://x.com/alacheng                   |
 | 79   | Lexi Bitcoin 🐱         | @Lexibtceth        | https://x.com/Lexibtceth                 |
 | 80   | baby                    | @liuxiaoling933    | https://x.com/liuxiaoling933             |
-| 81   | Traderibo               | @Traderibo1        | [https://x.com/Traderibo1](https://x.com/Traderibo1) |
-| 82   | Ohmann极致兔             | @btcohnmann        | [https://x.com/btcohnmann](https://x.com/btcohnmann) |
-| 83   | Ferre                   | @FerreWeb3         | [https://x.com/FerreWeb3](https://x.com/FerreWeb3) |
-| 84   | Pikachu                 | @Web3Pikachu       | [https://x.com/Web3Pikachu](https://x.com/Web3Pikachu) |
-| 85   | INSOMNIAC               | @Omniac_ac         | [https://x.com/Omniac_ac](https://x.com/Omniac_ac) |
-| 86   | Joker                   | @LittleJoker9999   | [https://x.com/LittleJoker9999](https://x.com/LittleJoker9999) |
-| 87   | MAX                     | @maxpsyop          | [https://x.com/maxpsyop](https://x.com/maxpsyop) |
-| 88   | KriptoLisa              | @KriptoLisa        | [https://x.com/KriptoLisa](https://x.com/KriptoLisa) |
-| 89   | PPOU                    | @ppougod           | [https://x.com/ppougod](https://x.com/ppougod) |
-| 90   | D.D.jp                  | @r1tk7025          | [https://x.com/r1tk7025](https://x.com/r1tk7025) |
+| 81   | 迪尔Dir. $M | 𓃵    | @gn_zebraleyuan     | https://x.com/gn_zebraleyuan         |
+| 82   | Ohmann张奥曼         | @btcohmann           | https://x.com/btcohmann               |
+| 83   | Traderibo         | @Traderibo123        | https://x.com/Traderibo123            |
+| 84   | Ferre             | @FerreWeb3           | https://x.com/FerreWeb3               |
+| 85   | Joker             | @LittleJoker9999     | https://x.com/LittleJoker9999         |
+| 86   | Pikachu⚡          | @Web3Pikachu         | https://x.com/Web3Pikachu             |
+| 87   | PPOU              | @ppougod             | https://x.com/ppougod                 |
+| 88   | INSOMNIAC         | @insomniac_ac        | https://x.com/insomniac_ac            |
+| 89   | DD.ip             | @rtk17025            | https://x.com/rtk17025                |
+| 90   | KriptoLisa        | @KriptoLisa          | https://x.com/KriptoLisa              |
 | 91   | DnxtGen                 | @allen_nojekwu     | [https://x.com/allen_nojekwu](https://x.com/allen_nojekwu) |
 | 92   | theHan.eth              | @theHaneth         | [https://x.com/theHaneth](https://x.com/theHaneth) |
 | 93   | Lexi Bitcoin            | @Lexibtceth        | [https://x.com/Lexibtceth](https://x.com/Lexibtceth) |
