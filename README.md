@@ -69,9 +69,9 @@
 | 65   | hottiebabegem (🍊,🍉) ⩚☀️🚨          | @HottieBabeGem       | https://x.com/HottieBabeGem                 |
 | 66   | Vvicky绮绮 $M                   | @vvickym2            | https://x.com/vvickym2                      |
 | 67   | Saint                                 | @TheDeFiSaint        | https://x.com/TheDeFiSaint                  |
-| 68   | Miqi*𓃵                              | @qmmnmike            | https://x.com/qmmnmike                      |
+| 68   | Miqi*𓃵                              | @qmmmike            | https://x.com/qmmmike                    |
 | 69   | BAEK_PRO $M  𓃵 국동김치파           | @baek_project        | https://x.com/baek_project                  |
-| 70   | astronomica                           | @oxastronomica       | https://x.com/oxastronomica                 |
+| 70   | astronomica                           | @0xastronomica       | https://x.com/0xastronomica                 |
 | 71   | 团圆流水                 | @OHM010169         | [https://x.com/OHM010169](https://x.com/OHM010169) |
 | 72   | hunkarbey               | @hunkarbeyiniz     | [https://x.com/hunkarbeyiniz](https://x.com/hunkarbeyiniz) |
 | 73   | FastLife                | @0xFastLife        | [https://x.com/0xFastLife](https://x.com/0xFastLife) |
