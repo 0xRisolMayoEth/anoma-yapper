@@ -72,16 +72,16 @@
 | 68   | Miqi*𓃵                              | @qmmmike            | https://x.com/qmmmike                    |
 | 69   | BAEK_PRO $M  𓃵 국동김치파           | @baek_project        | https://x.com/baek_project                  |
 | 70   | astronomica                           | @0xastronomica       | https://x.com/0xastronomica                 |
-| 71   | 团圆流水                 | @OHM010169         | [https://x.com/OHM010169](https://x.com/OHM010169) |
-| 72   | hunkarbey               | @hunkarbeyiniz     | [https://x.com/hunkarbeyiniz](https://x.com/hunkarbeyiniz) |
-| 73   | FastLife                | @0xFastLife        | [https://x.com/0xFastLife](https://x.com/0xFastLife) |
-| 74   | Jack Haldorsson         | @Jackhaldorsson    | [https://x.com/Jackhaldorsson](https://x.com/Jackhaldorsson) |
-| 75   | (kosong)                | —                  | — |
-| 76   | (kosong)                | —                  | — |
-| 77   | (kosong)                | —                  | — |
-| 78   | 太美                     | @alacheng          | [https://x.com/alacheng](https://x.com/alacheng) |
-| 79   | baby                    | @luxiaoling933     | [https://x.com/luxiaoling933](https://x.com/luxiaoling933) |
-| 80   | 北京Dir. $M              | @gnZebraleyuan     | [https://x.com/gnZebraleyuan](https://x.com/gnZebraleyuan) |
+| 71   | hunkarbey               | @hunkarbeyiniz     | https://x.com/hunkarbeyiniz              |
+| 72   | SAMtheToshis𓃵          | @nftchains         | https://x.com/nftchains                  |
+| 73   | 币圈荒木                  | @HM010169          | https://x.com/HM010169                   |
+| 74   | FastLife                | @0xFastLife        | https://x.com/0xFastLife                 |
+| 75   | Jack Haldorsson         | @Jackhaldorsson    | https://x.com/Jackhaldorsson             |
+| 76   | Tello                   | @Telloo55          | https://x.com/Telloo55                   |
+| 77   | TGD Crypto              | @tgd_duu           | https://x.com/tgd_duu                    |
+| 78   | 头雁                     | @alacheng          | https://x.com/alacheng                   |
+| 79   | Lexi Bitcoin 🐱         | @Lexibtceth        | https://x.com/Lexibtceth                 |
+| 80   | baby                    | @liuxiaoling933    | https://x.com/liuxiaoling933             |
 | 81   | Traderibo               | @Traderibo1        | [https://x.com/Traderibo1](https://x.com/Traderibo1) |
 | 82   | Ohmann极致兔             | @btcohnmann        | [https://x.com/btcohnmann](https://x.com/btcohnmann) |
 | 83   | Ferre                   | @FerreWeb3         | [https://x.com/FerreWeb3](https://x.com/FerreWeb3) |
