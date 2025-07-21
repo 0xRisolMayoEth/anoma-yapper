@@ -92,14 +92,14 @@
 | 88   | INSOMNIAC         | @insomniac_ac        | https://x.com/insomniac_ac            |
 | 89   | DD.ip             | @rtk17025            | https://x.com/rtk17025                |
 | 90   | KriptoLisa        | @KriptoLisa          | https://x.com/KriptoLisa              |
-| 91   | DnxtGen                 | @allen_nojekwu     | [https://x.com/allen_nojekwu](https://x.com/allen_nojekwu) |
-| 92   | theHan.eth              | @theHaneth         | [https://x.com/theHaneth](https://x.com/theHaneth) |
-| 93   | Lexi Bitcoin            | @Lexibtceth        | [https://x.com/Lexibtceth](https://x.com/Lexibtceth) |
-| 94   | 코론 $M!                 | @totory_1          | [https://x.com/totory_1](https://x.com/totory_1) |
-| 95   | Bazzl                   | @bazzlcrypto       | [https://x.com/bazzlcrypto](https://x.com/bazzlcrypto) |
-| 96   | Facyc                   | @Facyctw           | [https://x.com/Facyctw](https://x.com/Facyctw) |
-| 97   | Σ: MAGIC (∂)(∬)(∇)🦉✨   | @IP...             | [https://x.com/IP...](https://x.com/IP...) |
-| 98   | A lege_Official         | @AlegeOfficial     | [https://x.com/AlegeOfficial](https://x.com/AlegeOfficial) |
-| 99   | prxfecy                 | @prxfecy0x         | [https://x.com/prxfecy0x](https://x.com/prxfecy0x) |
-| 100  | Ledora                  | @ledoraeth         | [https://x.com/ledoraeth](https://x.com/ledoraeth) |
+| 91   | MAX                      | @maxpsyop          | https://x.com/maxpsyop               |
+| 92   | DnxtGen                  | @allen_mojekwu     | https://x.com/allen_mojekwu          |
+| 93   | Bazzi                    | @bazzicrypto       | https://x.com/bazzicrypto            |
+| 94   | theHan.eth               | @theHaneth         | https://x.com/theHaneth              |
+| 95   | 토토리 $M 𓃵              | @totory_1          | https://x.com/totory_1               |
+| 96   | lege-Officialᵀᴾ 🔷        | @AlegeOfficial     | https://x.com/AlegeOfficial          |
+| 97   | ∑: MAGIC (Ø,Ĝ){✧ᴜ✧}⟨⛧，⛧⟩ ♞♟ | @IPALAU1 | https://x.com/IPALAU1    |
+| 98   | Faycy                    | @Faycytw           | https://x.com/Faycytw                |
+| 99   | Aiden                    | @AidenWgmi         | https://x.com/AidenWgmi              |
+| 100  | prxfecy                  | @prxfecy0x         | https://x.com/prxfecy0x              |
 
